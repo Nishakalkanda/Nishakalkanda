@@ -1,4 +1,4 @@
-###                                                         Hi there, I'm NISHA
+###                                                             Hi there, I'm NISHA
 
                      B.E in Computer Science & Engineering |  Chandigarh University, 2019-2023
      Holding a good command over programming languages , web technologies and working on real world problems . 
