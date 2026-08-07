@@ -1,7 +1,7 @@
 
-# Hi there, I'm Nisha 👋
+# Hi there, I'm Nisha
 
-## 🚀 About Me
+## About Me
 
 I'm a **Python & Django Developer** with experience in building scalable backend applications, REST APIs, and database-driven solutions. I enjoy solving real-world problems, writing clean and maintainable code, and continuously learning new technologies.
 
@@ -14,7 +14,7 @@ I'm a **Python & Django Developer** with experience in building scalable backend
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -45,7 +45,7 @@ I'm a **Python & Django Developer** with experience in building scalable backend
 
 ---
 
-## 💻 What I Build
+## What I Build
 
 * Backend Web Applications
 * RESTful APIs
@@ -58,6 +58,6 @@ I'm a **Python & Django Developer** with experience in building scalable backend
 ---
 
 
-### ✨ Quote
+### Quote
 
 > "Keep learning, keep building, and let your code speak for itself."
